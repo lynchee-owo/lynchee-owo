@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @lynchee-owo
-- 👀 I’m interested in personalized education and AI
+- 👋 Hi, I’m Lingjie :D
 
 <!---
 lynchee-owo/lynchee-owo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
